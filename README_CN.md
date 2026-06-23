@@ -7,7 +7,7 @@ author: "瀚影"
 excerpt: "详细讲解C/C++项目的完整构建过程，从预处理到链接，再到使用Make和CMake管理构建。"
 ---
 
-> **English Version**: [Compiled Language Build Guide: A Deep Dive into C/C++ Build Process](./20260622_compiled_language_build_en.md)
+> **English Version**: [Compiled Language Build Guide: A Deep Dive into C/C++ Build Process](./README.md)
 
 # 编译型语言项目构建指南：以C/C++为例
 

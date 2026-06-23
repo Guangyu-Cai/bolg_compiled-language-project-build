@@ -7,7 +7,7 @@ author: "Hanying"
 excerpt: "A comprehensive guide to the C/C++ build process, from preprocessing to linking, including Make and CMake build management."
 ---
 
-> **Chinese Version**: [编译型语言项目构建指南：以C/C++为例](./20260622_compiled_language_build.md)
+> **Chinese Version**: [编译型语言项目构建指南：以C/C++为例](./README_CN.md)
 
 # Compiled Language Build Guide: A Deep Dive into C/C++ Build Process
 
