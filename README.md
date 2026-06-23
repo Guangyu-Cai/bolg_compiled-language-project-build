@@ -12,6 +12,8 @@ excerpt: "A comprehensive guide to the C/C++ build process, from preprocessing t
 # Compiled Language Build Guide: A Deep Dive into C/C++ Build Process
 
 > Every time you execute `gcc main.c -o app` or `make`, the compiler performs a series of precise conversion operations behind the scenes. This article takes C/C++ as an example to help you deeply understand the complete build process of compiled languages.
+>
+> Note: A `CMakeLists.txt` is a project structure file manually authored by developers. CMake serves as a build script generator that generates native project build scripts based on `CMakeLists.txt`. Make is a build utility that invokes compilers, builds the project, and executes other auxiliary operations in accordance with the generated build scripts.
 
 ## 1. What is a Compiled Language
 
